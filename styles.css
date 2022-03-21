@@ -1,0 +1,33 @@
+.pageDefault{
+    font-size: 1rem;
+}
+.pageHeader{
+    font-size: 1rem;
+    height: 2rem;
+    background-color: darkblue;
+}
+.pageFooter{
+    font-size: 1rem;
+    height: 2rem;
+    background-color: darkblue;
+}
+.pageHero{
+    font-size: 1rem;
+    height: 2rem;
+    background-color: blue;
+}
+.pageInfo{
+    font-size: 1rem;
+    height: 2rem;
+    background-color: white;
+}
+.pageQuote{
+    font-size: 1rem;
+    height: 2rem;
+    background-color: pink;
+}
+.pageSignUp{
+    font-size: 1rem;
+    height: 2rem;
+    background-color: lightblue;
+}
